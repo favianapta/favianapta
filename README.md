@@ -89,7 +89,7 @@
 
 <!-- 🌐 Social Icons -->
 <div align="center" style="margin: 20px 0;">
-  <a href="https://linkedin.com/in/favianapta" target="_blank">
+  <a href="https://linkedin.com/in/mfavian" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="36" />
   </a>
   <a href="https://instagram.com/favian.apta" target="_blank">
