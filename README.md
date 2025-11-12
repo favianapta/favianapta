@@ -5,18 +5,19 @@
   </a>
 </div>
 
-<h3 align="center" style="font-family: 'JetBrains Mono', monospace; color: #36BCF7; font-weight: 700; letter-spacing: 1px;">
-  ⚡ M. FAVIAN APTA SYAHPUTRA ⚡
-</h3>
+<!-- Title -->
+<p align="center">
+  <img src="https://img.shields.io/badge/⚡_M._FAVIAN_APTA_SYAHPUTRA_⚡-36BCF7?style=for-the-badge&labelColor=0D1117" alt="Title Badge" />
+</p>
 
-<h4 align="center" style="font-family: 'JetBrains Mono', monospace; color: #A9D6F5; font-weight: 500; line-height: 1.6;">
-  ⚡ A passionate <span style="color:#36BCF7;">Web Developer</span> specializing in <span style="color:#36BCF7;">front-end</span> experiences,<br>
-  expanding into <span style="color:#36BCF7;">Full-Stack</span> and <span style="color:#36BCF7;">Back-End</span> technologies.<br>
-  Enthusiastic about <span style="color:#36BCF7;">Blockchain</span>, <span style="color:#36BCF7;">Data Analytics</span>, and <span style="color:#36BCF7;">AI</span> —<br>
-  grounded by a strong base in <span style="color:#36BCF7;">Computer Networking</span>.<br>
+<!-- Subtitle -->
+<p align="center">
+  ⚡ A passionate <img src="https://img.shields.io/badge/Web_Developer-36BCF7?style=flat-square&labelColor=0D1117" /> specializing in <img src="https://img.shields.io/badge/front--end-36BCF7?style=flat-square&labelColor=0D1117" /> experiences,<br>
+  expanding into <img src="https://img.shields.io/badge/Full--Stack-36BCF7?style=flat-square&labelColor=0D1117" /> and <img src="https://img.shields.io/badge/Back--End-36BCF7?style=flat-square&labelColor=0D1117" /> technologies.<br>
+  Enthusiastic about <img src="https://img.shields.io/badge/Blockchain-36BCF7?style=flat-square&labelColor=0D1117" />, <img src="https://img.shields.io/badge/Data_Analytics-36BCF7?style=flat-square&labelColor=0D1117" />, and <img src="https://img.shields.io/badge/AI-36BCF7?style=flat-square&labelColor=0D1117" /> —<br>
+  grounded by a strong base in <img src="https://img.shields.io/badge/Computer_Networking-36BCF7?style=flat-square&labelColor=0D1117" />.<br>
   <i>Constantly learning, building, and evolving through real-world creation.</i>
-</h4>
-
+</p>
 
 ---
 
@@ -39,7 +40,7 @@
   <summary><h2>🛠️ Tech Stack</h2></summary>
 
 ### 🧬 Programming & Markup Languages
-<div align="left" style="margin-left: 6px;">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
@@ -47,25 +48,25 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" />
-</div>
+</p>
 
 ### 🏗️ Frameworks
-<div align="left" style="margin-left: 6px;">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" />
-</div>
+</p>
 
 ### 🗄️ Databases
-<div align="left" style="margin-left: 6px;">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" />
-</div>
+</p>
 
 ### 💻 Software & Tools
-<div align="left" style="margin-left: 6px;">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" />
@@ -73,7 +74,7 @@
   <img src="https://cdn.simpleicons.org/xampp/fb7a24" height="40" />
   <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" />
-</div>
+</p>
 </details>
 
 ---
@@ -88,7 +89,7 @@
 ---
 
 <!-- 🌐 Social Icons -->
-<div align="center" style="margin: 20px 0;">
+<p align="center">
   <a href="https://linkedin.com/in/mfavian" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="36" />
   </a>
@@ -98,11 +99,13 @@
   <a href="mailto:favianapta.dev@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="36" />
   </a>
-</div>
+</p>
 
 ---
 
 ## ☕ Buy Me a Coffee  
-<a href="https://www.buymeacoffee.com/favianapta">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
-</a>
+<p align="left">
+  <a href="https://www.buymeacoffee.com/favianapta">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
+  </a>
+</p>
