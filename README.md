@@ -5,17 +5,20 @@
   </a>
 </div>
 
-<!-- Title -->
-<p align="center">
-  <img src="https://img.shields.io/badge/⚡_M._FAVIAN_APTA_SYAHPUTRA_⚡-36BCF7?style=for-the-badge&labelColor=0D1117" alt="Title Badge" />
+<!-- 🧠 Title Section -->
+<p align="center" style="margin-top: 20px; margin-bottom: 10px;">
+  <img 
+    src="https://img.shields.io/badge/⚡_M._FAVIAN_APTA_SYAHPUTRA_⚡-36BCF7?style=for-the-badge&labelColor=0D1117" 
+    alt="Title Badge"
+    style="height: 40px;"
+  />
 </p>
 
-<!-- Subtitle -->
+<!-- ✨ Subtitle Section -->
+<!-- 💡 Subtitle -->
 <p align="center">
-  ⚡ A passionate <img src="https://img.shields.io/badge/Web_Developer-36BCF7?style=flat-square&labelColor=0D1117" /> specializing in <img src="https://img.shields.io/badge/front--end-36BCF7?style=flat-square&labelColor=0D1117" /> experiences,<br>
-  expanding into <img src="https://img.shields.io/badge/Full--Stack-36BCF7?style=flat-square&labelColor=0D1117" /> and <img src="https://img.shields.io/badge/Back--End-36BCF7?style=flat-square&labelColor=0D1117" /> technologies.<br>
-  Enthusiastic about <img src="https://img.shields.io/badge/Blockchain-36BCF7?style=flat-square&labelColor=0D1117" />, <img src="https://img.shields.io/badge/Data_Analytics-36BCF7?style=flat-square&labelColor=0D1117" />, and <img src="https://img.shields.io/badge/AI-36BCF7?style=flat-square&labelColor=0D1117" /> —<br>
-  grounded by a strong base in <img src="https://img.shields.io/badge/Computer_Networking-36BCF7?style=flat-square&labelColor=0D1117" />.<br>
+  ⚡ A passionate <b>Web Developer</b> specializing in <b>front-end experiences</b>, expanding into <b>Full-Stack</b> and <b>Back-End technologies</b>. <br>
+  Enthusiastic about <b>Blockchain</b>, <b>Data Analytics</b>, and <b>AI</b> — grounded by a strong base in <b>Computer Networking</b>. <br><br>
   <i>Constantly learning, building, and evolving through real-world creation.</i>
 </p>
 
@@ -25,14 +28,22 @@
   <summary><h2>📘 My Projects</h2></summary>
   <p align="left">
     <a href="https://github.com/favianapta/WisataKuy">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=favianapta&repo=WisataKuy&title_color=36BCF7&text_color=C9D1D9&icon_color=8B949E&bg_color=0D1117&hide_border=true&show_owner=false" />
+      <img align="center" 
+        src="https://github-readme-stats.vercel.app/api/pin/?username=favianapta&repo=WisataKuy&title_color=36BCF7&text_color=E6E6E6&icon_color=8B949E&bg_color=1A1C20&hide_border=true&show_owner=false" 
+        alt="WisataKuy Repo Card"
+      />
     </a>
   </p>
 
   <a href="https://github.com/favianapta?tab=repositories&sort=stargazers">
-    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
+    <img 
+      alt="All Repositories" 
+      title="All Repositories" 
+      src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-2A2F35?style=for-the-badge&logoColor=white&logo=repo"
+    />
   </a>
 </details>
+
 
 ---
 
