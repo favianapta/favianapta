@@ -104,9 +104,9 @@
   <a href="https://linkedin.com/in/mfavian" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="36" />
   </a>
-  <a href="https://instagram.com/favian.apta" target="_blank">
+  <!-- <a href="https://instagram.com/favian.apta" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" height="36" />
-  </a>
+  </a> -->
   <a href="mailto:favianapta.dev@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="36" />
   </a>
