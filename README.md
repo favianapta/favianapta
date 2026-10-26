@@ -1,122 +1,177 @@
-<!-- 👋 Animated Header -->
+<!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hello%2C+There!+%F0%9F%91%8B">
-  </a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:36BCF7&height=200&section=header&text=M.%20Favian%20Apta%20Syahputra&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=Web%20Developer%20%7C%20Front-End%20%E2%86%92%20Full-Stack&descSize=16&descAlignY=58" alt="Header" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&lines=Building+clean+and+responsive+web+experiences;Expanding+into+Full-Stack+%26+Back-End;Learning+by+building+real-world+projects" alt="Typing SVG"/>
+</a>
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/mfavian"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:favianapta.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/favianapta?tab=repositories&sort=stargazers"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
+
+<br/><br/>
+
+<a href="#about">About</a> •
+<a href="#focus">Focus</a> •
+<a href="#tech-stack">Tech Stack</a> •
+<a href="#projects">Projects</a> •
+<a href="#contact">Contact</a>
+
 </div>
 
-<!-- 🧠 Title Section -->
-<p align="center" style="margin-top: 20px; margin-bottom: 10px;">
-  <img 
-    src="https://img.shields.io/badge/⚡_M._FAVIAN_APTA_SYAHPUTRA_⚡-36BCF7?style=for-the-badge&labelColor=0D1117" 
-    alt="Title Badge"
-    style="height: 40px;"
-  />
-</p>
+<br/>
 
-<!-- ✨ Subtitle Section -->
-<!-- 💡 Subtitle -->
-<p align="center">
-  ⚡ A passionate <b>Web Developer</b> specializing in <b>front-end experiences</b>, expanding into <b>Full-Stack</b> and <b>Back-End technologies</b>. <br>
-  Enthusiastic about <b>Blockchain</b>, <b>Data Analytics</b>, and <b>AI</b> — grounded by a strong base in <b>Computer Networking</b>. <br><br>
-  <i>Constantly learning, building, and evolving through real-world creation.</i>
-</p>
+<a id="about"></a>
 
----
+## 👨‍💻 About Me
 
-<details open> 
-  <summary><h2>📘 My Projects</h2></summary>
-  <p align="left">
-    <a href="https://github.com/favianapta/WisataKuy">
-      <img align="center" 
-        src="https://github-readme-stats.vercel.app/api/pin/?username=favianapta&repo=WisataKuy&title_color=36BCF7&text_color=E6E6E6&icon_color=8B949E&bg_color=1A1C20&hide_border=true&show_owner=false" 
-        alt="WisataKuy Repo Card"
-      />
-    </a>
-  </p>
+I'm a **Web Developer** who specializes in **front-end development** and is steadily expanding into **full-stack** and **back-end** technologies. My foundation in **Computer Networking** gives me a solid understanding of how applications communicate and perform in the real world.
 
-  <a href="https://github.com/favianapta?tab=repositories&sort=stargazers">
-    <img 
-      alt="All Repositories" 
-      title="All Repositories" 
-      src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-2A2F35?style=for-the-badge&logoColor=white&logo=repo"
-    />
-  </a>
+I'm also exploring **Blockchain**, **Data Analytics**, and **AI**, and I learn best by building real projects.
+
+<br/>
+
+<a id="focus"></a>
+
+## 🎯 Focus Areas
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <h3>🎨</h3>
+      <b>Front-End</b><br/>
+      <sub>Responsive, accessible, and polished user interfaces</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>⚙️</h3>
+      <b>Full-Stack &amp; Back-End</b><br/>
+      <sub>APIs, databases, and application logic with Laravel</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>📱</h3>
+      <b>Mobile</b><br/>
+      <sub>Cross-platform apps with Flutter</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>🔬</h3>
+      <b>Exploring</b><br/>
+      <sub>Blockchain, Data Analytics, and AI</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<a id="tech-stack"></a>
+
+## 🛠️ Tech Stack
+
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,js,php,java,kotlin,dart" alt="Languages"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frameworks</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=laravel,react,tailwind,bootstrap,flutter,arduino" alt="Frameworks"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql,firebase" alt="Databases"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=vscode,figma,github,chrome,discord" alt="Tools"/>
+      <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white" alt="XAMPP"/>
+      <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<a id="projects"></a>
+
+## 📘 Featured Projects
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/favianapta/WisataKuy">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=favianapta&repo=WisataKuy&theme=tokyonight&hide_border=true&show_owner=false" alt="WisataKuy"/>
+      </a>
+      <br/>
+      <sub>Tourism web application built with Laravel.</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/favianapta/RealKingMarket">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=favianapta&repo=RealKingMarket&theme=tokyonight&hide_border=true&show_owner=false" alt="RealKingMarket"/>
+      </a>
+      <br/>
+      <sub>E-commerce website, from fashion to phones (in development).</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
+      <img src="https://img.shields.io/badge/Livewire-FB70A9?style=flat-square&logo=livewire&logoColor=white" alt="Livewire"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
+<br/>
+
+<a href="https://github.com/favianapta?tab=repositories&sort=stargazers">
+  <img src="https://img.shields.io/badge/View_All_Projects_→-36BCF7?style=for-the-badge&labelColor=0D1117" alt="All Projects"/>
+</a>
+
+</div>
+
+<br/>
+
+<details>
+<summary><h2>📊 GitHub Stats</h2></summary>
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=favianapta&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=favianapta&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</div>
+
 </details>
 
+<br/>
 
----
+<a id="contact"></a>
 
-<details open> 
-  <summary><h2>🛠️ Tech Stack</h2></summary>
+## 🤝 Let's Connect
 
-### 🧬 Programming & Markup Languages
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" />
-</p>
+I'm open to collaboration, learning opportunities, and interesting projects. Feel free to reach out via [LinkedIn](https://linkedin.com/in/mfavian) or [email](mailto:favianapta.dev@gmail.com).
 
-### 🏗️ Frameworks
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" />
-</p>
+<div align="center">
 
-### 🗄️ Databases
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" />
-</p>
+<br/>
 
-### 💻 Software & Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" />
-  <img src="https://cdn.simpleicons.org/xampp/fb7a24" height="40" />
-  <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" />
-</p>
-</details>
+<a href="https://www.buymeacoffee.com/favianapta">
+  <img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee"/>
+</a>
 
----
+<br/><br/>
 
-<details> 
-  <summary><h2>📊 Stats</h2></summary>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:36BCF7&height=100&section=footer" alt="Footer" width="100%"/>
 
-  ![Favian's GitHub stats](https://github-readme-stats.vercel.app/api?username=favianapta&show_icons=true&theme=tokyonight)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=favianapta&layout=compact&theme=tokyonight)
-</details>
-
----
-
-<!-- 🌐 Social Icons -->
-<p align="center">
-  <a href="https://linkedin.com/in/mfavian" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="36" />
-  </a>
-  <!-- <a href="https://instagram.com/favian.apta" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" height="36" />
-  </a> -->
-  <a href="mailto:favianapta.dev@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="36" />
-  </a>
-</p>
-
----
-
-## ☕ Buy Me a Coffee  
-<p align="left">
-  <a href="https://www.buymeacoffee.com/favianapta">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
-  </a>
-</p>
+</div>
